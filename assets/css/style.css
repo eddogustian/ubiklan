@@ -233,7 +233,7 @@ header .navbar-brand img{
 }
 #section-5 .card-title-numbers-talk p{
     font-size: 14px;
-    font-weight: normal;
+    font-weight: bold;
     text-align: center;
     margin: 0;
 }
@@ -370,6 +370,7 @@ footer .footer-top .footer-content .list li a{
 }
 footer .footer-top .footer-content .list li a i {
     margin-right: 8px;
+    color: #00B7BA;
 }
 footer .footer-top .footer-content h1 {
     font-size: 14px;
@@ -519,10 +520,6 @@ footer .footer-bottom {
     #section-1 .content h1 {
         font-size: 24px;
     }
-
-    #section-2 {
-
-    }
     #section-2 .container-img {
         display: flex;
         justify-content: center;
@@ -536,9 +533,6 @@ footer .footer-bottom {
         font-size: 24px;
     }
     
-    #section-3 {
-
-    }
     #section-3 .list-why-ubiklan .desc {
         text-align: center;
     }
