@@ -45,7 +45,7 @@ header nav .container-auth {
 }
 
 section {
-    padding: 3rem 0;
+    padding: 4rem 0;
 }
 
 header .navbar-brand img{
@@ -309,10 +309,11 @@ header .navbar-brand img{
 }
 #section-8 {
     background: #e4e4e6;
+    padding: 2rem 0 0;
 }
 #section-8 .container-btn-now {
-    text-align: end;
-    padding-top: 65px;
+    text-align: center;
+    padding-top: 90px;
 }
 #section-8 .title {
     background: #ffffff;
@@ -343,12 +344,12 @@ header .navbar-brand img{
 
     position: absolute;
     right: 0;
-    bottom: 40%;
+    bottom: 25%;
 }
 /* Footer Style */
 
 footer .footer-top {
-    padding: 40px 15px;
+    padding: 50px 0 15px 0;
 }
 footer .footer-top .footer-content img{
     margin-bottom: 20px;
@@ -641,5 +642,8 @@ footer .footer-bottom {
      }
     footer .footer-top .footer-content .image-footer {
         width: 100%;
+    }
+    footer .footer-top {
+        padding: 50px 15px 15px 15px;
     }
 }
