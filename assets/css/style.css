@@ -318,7 +318,7 @@ header .navbar-brand img{
 #section-8 .title {
     background: #ffffff;
     color: #000;
-    padding: 40px 20px;
+    padding: 40px 50px 33px 0;
     text-align: end;
     border-radius: 7px;
 }
@@ -344,7 +344,7 @@ header .navbar-brand img{
 
     position: absolute;
     right: 0;
-    bottom: 25%;
+    bottom: 20%;
 }
 /* Footer Style */
 
@@ -618,6 +618,9 @@ footer .footer-bottom {
         bottom: 0;
         top: 100%;
         right: 45%;
+    }
+    #section-8 .title {
+        padding: 40px 20px;
     }
 
     /* Footer */
